@@ -1,0 +1,155 @@
+.HTML1
+{
+  width: 1366px;
+height: 1000px;
+background-color: #DEEDF0;
+}
+
+a{
+  text-decoration: none;
+}
+*
+{
+  margin:0;
+  padding:0;
+}
+
+.passion
+{
+padding: 70px;
+width: 70%;
+position: relative;
+left: 30%
+}
+/* .flex
+{
+  display: flex;
+  align-items: center;
+} */
+.football-player
+{
+  margin: 0 300px 0 200px;
+position: relative;
+bottom: 1em;
+left: 5em;
+box-shadow: 5px 5px 5px #404040;
+}
+.para
+{
+  width: 40%;
+float: right;
+position: relative;
+right: 350px;
+}
+
+.para1
+{
+  width: 40%;
+float: right;
+position: relative;
+right: 350px;
+right: auto;
+position: relative;
+padding-top: 4em;
+margin: 0;
+padding: 0;
+right: 32em;
+}
+.tactics
+{
+
+  width: 12em;
+background-position: bottom;
+position: relative;
+left: 55em;
+box-shadow: 5px 5px 5px #404040;
+}
+.third-container
+{
+  background-color: #66BFBF;
+padding-bottom: 5px;
+opacity: 0.8;
+padding-top: 30px;
+border-radius: 20px;
+}
+
+.btn{
+  background: #5ea6d6;
+  background-image: -webkit-linear-gradient(top, #5ea6d6, #6daed6);
+  background-image: -moz-linear-gradient(top, #5ea6d6, #6daed6);
+  background-image: -ms-linear-gradient(top, #5ea6d6, #6daed6);
+  background-image: -o-linear-gradient(top, #5ea6d6, #6daed6);
+  background-image: linear-gradient(to bottom, #5ea6d6, #6daed6);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+top: 50px;
+text-align: center;
+margin: 0 auto;
+position: relative;
+left: 600px;
+position: relative;
+top: 150px;
+}
+
+.btn:hover {
+  background: #d1e2eb;
+  background-image: -webkit-linear-gradient(top, #d1e2eb, #0c92eb);
+  background-image: -moz-linear-gradient(top, #d1e2eb, #0c92eb);
+  background-image: -ms-linear-gradient(top, #d1e2eb, #0c92eb);
+  background-image: -o-linear-gradient(top, #d1e2eb, #0c92eb);
+  background-image: linear-gradient(to bottom, #d1e2eb, #0c92eb);
+  text-decoration: none;
+}
+.contact-me
+{
+  height: 300px;
+}
+
+.head1
+{
+  margin: 0 auto;
+text-align: center;
+position: relative;
+top: 40px;
+}
+.head2
+{
+  margin: 0 auto;
+text-align: center;
+position: relative;
+top: 60px;
+}
+
+.paragraph4
+{
+  width: 30%;
+margin: 0 auto;
+text-align: center;
+position: relative;
+top: 90px;
+}
+
+
+a{
+  margin: 0 10px 5px;
+  font-size: 19px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.Main-tac
+{
+  padding-top: 30px;
+}
+.third-container
+{
+  height: 50px;
+  margin-left: 300px;
+width: 760px;
+text-align: center;
+}

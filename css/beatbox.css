@@ -1,0 +1,38 @@
+.codfish
+{
+  box-shadow: 15px 15px #404040;
+  width: 30%;
+  border-radius: 50px;
+position: relative;
+bottom: 15px;
+transition: box-shadow 0.5s;
+}
+ .tactics
+ {
+   border-radius: 50px
+   position: relative;
+   top: 35px;
+}
+.real
+{
+  border-radius: 50px;
+}
+
+ .contact-me
+ {
+   margin-top: 100px;
+ }
+.codfish:hover
+{
+  box-shadow: 5px 5px;
+}
+.parag1
+{
+  font-size: 20px;
+}
+
+.parag
+{
+  font-size: 20px;
+
+}
